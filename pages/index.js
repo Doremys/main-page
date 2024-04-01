@@ -27,7 +27,7 @@ export default function Home({ allPostsData }) {
           for all things launching products, from planning and designing all the
           way to solving real-life problems with code. You can contact me at
         
-          <a href="https://github.com/Doremys" target="_blank"> GitHub</a>
+          <a href="https://github.com/sjakk" target="_blank"> GitHub</a>
         
         
         </p>
